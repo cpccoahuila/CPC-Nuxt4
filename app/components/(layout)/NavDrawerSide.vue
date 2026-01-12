@@ -31,10 +31,10 @@
       <v-list-item
         v-for="(item, i) in items"
         :key="i"
-        :href="item.to"
+        :to="item.to"
         :title="item.title"
         :value="item.title"
-        rounded="xl"
+        rounded="lg"
         color="primary"
       >
         <template v-slot:prepend>

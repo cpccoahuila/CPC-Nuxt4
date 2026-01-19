@@ -1,7 +1,9 @@
 <template>
     <v-container>
         <Carousel />
+        <Inscripcion />
     </v-container>
+
 </template>
 
 <script setup lang="ts">

@@ -16,7 +16,9 @@
 </template>
 
 <script setup lang="ts">
-const toggleDrawer = ref(true)
+import { useDisplay } from 'vuetify'
+const {mobile } = useDisplay()
+const toggleDrawer = ref(mobile ? false : true)
 
 </script>
 

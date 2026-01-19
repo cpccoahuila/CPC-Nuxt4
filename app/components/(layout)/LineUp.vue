@@ -4,7 +4,7 @@
       <v-row 
         justify="center" 
         align="center" 
-        :class="smAndDown ? 'ga-3' : 'ga-8'"
+        :class="smAndDown ? 'ga-3' : 'ga-16'"
         no-gutters
       >
         <v-col 
@@ -38,10 +38,10 @@ const cc = [
   { img: 'ASEC.png', web: 'https://www.asecoahuila.gob.mx/', size: '160' },
   { img: 'cc-fehc.png', web: 'https://sitio.fgecoahuila.gob.mx/', size: '145' },
   { img: 'cc-sefirc.png', web: 'http://www.sefircoahuila.gob.mx/', size: '180' },
+  { img: 'cpc-color.png', web: 'https://www.cpccoahuila.org.mx/', size: '130' },
   { img: 'cc-pjecz.png', web: 'https://www.pjecz.gob.mx/', size: '170' },
   { img: 'cc-tjacz.png', web: 'http://www.tjacoahuila.org/', size: '130' },
-  { img: 'cpc-color.png', web: 'https://www.cpccoahuila.org.mx/', size: '130' },
-  { img: 'seac.png', web: '#', size: '110' }
+  { img: 'seac.png', web: 'https://www.seacoahuila.org.mx/', size: '110' }
 ];
 </script>
 

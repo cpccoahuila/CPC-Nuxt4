@@ -49,6 +49,15 @@ const page = {
 const comunicados = [
 
   {
+    titulo: "34. Comunicado SEPTIEMBRE 2026 Capacitación sobre llenado de Encuesta 2026 MPC.pdf",
+    texto: "Comunicado 34.",
+    link: "Ver comunicado",
+    to: "https://drive.google.com/file/d/1bc6hFLtieY3A4-dDWIFJj7ZFSIiNYzu4/view?usp=drive_link"
+  },
+
+  
+
+  {
     titulo: "33. Comunicado SEPTIEMBRE 2026 - HUB KYBERNUS.pdf",
     texto: "Comunicado 33.",
     link: "Ver comunicado",
